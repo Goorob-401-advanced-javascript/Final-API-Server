@@ -6,19 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Goorob-401-advanced-javascript/Final-API-Server.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Goorob-401-advanced-javascript/Final-API-Server/issues"
   },
-  "homepage": "https://github.com/Goorob-401-advanced-javascript/Final-API-Server#readme",
-  "dependencies": {
-    "eslint": "^6.8.0",
-    "jest": "^25.1.0"
-  }
+  "homepage": "https://github.com/Goorob-401-advanced-javascript/Final-API-Server#readme"
 }
